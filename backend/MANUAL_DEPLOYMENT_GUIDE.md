@@ -151,7 +151,7 @@ This guide walks you through deploying the Cheque Management System backend **ma
 
 8. **Save these values** (you'll need them later):
    - User Pool ID: `us-east-1_xxxxxxxxx`
-   - App Client ID: `xxxxxxxxxxxxxxxxxxxxxxxxxx`
+   - App Client ID: `xxxxxxxxxxxxx`
 
 **Reasoning**:
 - Email sign-in = user-friendly, no username to remember
